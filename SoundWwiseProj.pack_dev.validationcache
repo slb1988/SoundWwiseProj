@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="89">
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Actor-Mixer Hierarchy\Ambiences_Background.wwu" DateLow="1545805899" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Actor-Mixer Hierarchy\Ambiences_Emitters.wwu" DateLow="1545805899" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Actor-Mixer Hierarchy\Ambient.wwu" DateLow="1545707661" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1545707661" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Actor-Mixer Hierarchy\Enemies.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Actor-Mixer Hierarchy\Enemies_EvilCrawler.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Actor-Mixer Hierarchy\Enemies_EvilHead.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Actor-Mixer Hierarchy\Enemies_EvilSpitPlant.wwu" DateLow="1545805899" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1545213588" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1545213588" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Actor-Mixer Hierarchy\Instruments.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Actor-Mixer Hierarchy\NPCs.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Actor-Mixer Hierarchy\Object_Destruction.wwu" DateLow="1545805899" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Actor-Mixer Hierarchy\Object_Props.wwu" DateLow="1545805899" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Actor-Mixer Hierarchy\Objects.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Actor-Mixer Hierarchy\Player.wwu" DateLow="1545805899" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Actor-Mixer Hierarchy\UI.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Attenuations\Ambient.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Attenuations\Default Work Unit.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Audio Devices\Default Work Unit.wwu" DateLow="1545805899" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Control Surface Sessions\Default Work Unit.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Conversion Settings\Ambient.wwu" DateLow="1545805899" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Conversion Settings\Default Work Unit.wwu" DateLow="1545805899" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Conversion Settings\Enemies.wwu" DateLow="1545805898" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1545213588" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Conversion Settings\Music.wwu" DateLow="1545805898" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Conversion Settings\NPC.wwu" DateLow="1545805898" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Conversion Settings\Objects.wwu" DateLow="1545805899" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Conversion Settings\Player.wwu" DateLow="1545805898" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Conversion Settings\UI.wwu" DateLow="1545805899" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Effects\Default Work Unit.wwu" DateLow="1545805899" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Effects\Factory Convolution Reverb Effects Ambisonics.wwu" DateLow="1545213588" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Effects\Factory Convolution Reverb Effects Stereo.wwu" DateLow="1545805899" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Effects\Factory Effects.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Events\Ambient.wwu" DateLow="1545707661" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Events\Default Work Unit.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Events\Destruction.wwu" DateLow="1545707661" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Events\Enemies.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Events\Magic.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Events\Music.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Events\NPCs.wwu" DateLow="1545707661" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Events\Objects.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Events\Player.wwu" DateLow="1545707661" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Events\Quest.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Events\UI.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Game Parameters\Ambient.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Game Parameters\Default Work Unit.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Game Parameters\Enemies.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Game Parameters\Factory Motion.wwu" DateLow="1545213588" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Game Parameters\Gameplay.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Game Parameters\Generic.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Game Parameters\Magic.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Game Parameters\Objects.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Game Parameters\Player.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Game Parameters\SideChain.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Interactive Music Hierarchy\Music.wwu" DateLow="1545805899" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Interactive Music Hierarchy\Other.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1545805899" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Mixing Sessions\Default Work Unit.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Modulators\Default Work Unit.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Modulators\Magic_Modulators.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Modulators\MIDI_Envelopes.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Presets\Default Work Unit.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Queries\Default Work Unit.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Queries\Factory Queries.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\SoundBanks\Context.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\SoundBanks\Default Work Unit.wwu" DateLow="1545805899" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\SoundBanks\DLC.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\SoundBanks\General.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\SoundBanks\Region.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\SoundWwiseProj.pack_dev.wsettings" DateLow="1545808562" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\SoundWwiseProj.wproj" DateLow="1545802844" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\States\Default Work Unit.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\States\MusicStates.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\States\Player.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Switches\Default Work Unit.wwu" DateLow="1545707661" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Switches\General.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Switches\Player.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Triggers\Default Work Unit.wwu" DateLow="1545707662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\work\TheKingOfTerrors\SoundWwiseProj\Virtual Acoustics\Default Work Unit.wwu" DateLow="1545707662" DateHigh="0"/>
+</ValidationCache>
