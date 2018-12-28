@@ -1,0 +1,33 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1882971781	Music_Credits			\Music\SoundBankSpecific\Music_Credits	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	207908541	Time_of_Day			\Ambient\Time_of_Day	
+	1475400799	Music_WoodlandsHarp			\Gameplay\Music_WoodlandsHarp	
+
+Trigger	ID	Name			Wwise Object Path	Notes
+	780938204	Music_QuestComplete			\Default Work Unit\Music_QuestComplete	
+	1870078530	Adventuress_Death			\Default Work Unit\Adventuress_Death	
+	2029038382	Music_GetItem			\Default Work Unit\Music_GetItem	
+	3921957830	Music_EnemyTheme			\Default Work Unit\Music_EnemyTheme	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	24116040	Pizzicato_Strings	D:\work\TheKingOfTerrors\SoundWwiseProj\.cache\Windows\SFX\Music\MFYG\1_PizzicatoStrings_2_073D3C57.wem		\Interactive Music Hierarchy\Music\Music_Regions\Woodlands_Day\Woodlands_Day_Layers\Pizzicato_Strings		14550
+	28925572	1_Tuba_mellow	D:\work\TheKingOfTerrors\SoundWwiseProj\.cache\Windows\SFX\Music\MFYG\1_Tuba_mellow_073D3C57.wem		\Interactive Music Hierarchy\Music\Music_Regions\Woodlands_Day\Woodlands_Day_Layers\1_Tuba_mellow		14212
+	231527019	Flute	D:\work\TheKingOfTerrors\SoundWwiseProj\.cache\Windows\SFX\Music\Flute_073D3C57.wem		\Interactive Music Hierarchy\Music\Music_Regions\Woodlands_Day\Woodlands_Day_Layers\Flute		14185
+	420289128	Pizzicato_Strings	D:\work\TheKingOfTerrors\SoundWwiseProj\.cache\Windows\SFX\Music\Pizzicato_Strings_073D3C57.wem		\Interactive Music Hierarchy\Music\Music_Regions\Woodlands_Day\Woodlands_Day_Layers\Pizzicato_Strings		14495
+	492864942	1_Harp	D:\work\TheKingOfTerrors\SoundWwiseProj\.cache\Windows\SFX\Music\MFYG\1_Harp_073D3C57.wem		\Interactive Music Hierarchy\Music\Music_Regions\Woodlands_Day\Woodlands_Day_Layers\1_Harp		8207
+	804366245	1_Clarinet_Rhythmic	D:\work\TheKingOfTerrors\SoundWwiseProj\.cache\Windows\SFX\Music\MFYG\1_Clarinet_Rhythmic_073D3C57.wem		\Interactive Music Hierarchy\Music\Music_Regions\Woodlands_Day\Woodlands_Day_Layers\1_Clarinet_Rhythmic		8401
+	846211921	1_Choir	D:\work\TheKingOfTerrors\SoundWwiseProj\.cache\Windows\SFX\Music\MFYG\1_Choir_AF04F4F7.wem		\Interactive Music Hierarchy\Music\Music_Regions\Woodlands_Day\Woodlands_Day_Layers\1_Choir		2207
+	850164847	Tremolo Strings	D:\work\TheKingOfTerrors\SoundWwiseProj\.cache\Windows\SFX\Music\Tremolo Strings_AF04F4F7.wem		\Interactive Music Hierarchy\Music\Music_Regions\Woodlands_Day\Woodlands_Day_Layers\Tremolo Strings		7462
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	24116040	Pizzicato_Strings	D:\work\TheKingOfTerrors\SoundWwiseProj\.cache\Windows\SFX\Music\MFYG\1_PizzicatoStrings_2_073D3C57.wem	24116040.wem	\Interactive Music Hierarchy\Music\Music_Regions\Woodlands_Day\Woodlands_Day_Layers\Pizzicato_Strings	
+	28925572	1_Tuba_mellow	D:\work\TheKingOfTerrors\SoundWwiseProj\.cache\Windows\SFX\Music\MFYG\1_Tuba_mellow_073D3C57.wem	28925572.wem	\Interactive Music Hierarchy\Music\Music_Regions\Woodlands_Day\Woodlands_Day_Layers\1_Tuba_mellow	
+	231527019	Flute	D:\work\TheKingOfTerrors\SoundWwiseProj\.cache\Windows\SFX\Music\Flute_073D3C57.wem	231527019.wem	\Interactive Music Hierarchy\Music\Music_Regions\Woodlands_Day\Woodlands_Day_Layers\Flute	
+	420289128	Pizzicato_Strings	D:\work\TheKingOfTerrors\SoundWwiseProj\.cache\Windows\SFX\Music\Pizzicato_Strings_073D3C57.wem	420289128.wem	\Interactive Music Hierarchy\Music\Music_Regions\Woodlands_Day\Woodlands_Day_Layers\Pizzicato_Strings	
+	492864942	1_Harp	D:\work\TheKingOfTerrors\SoundWwiseProj\.cache\Windows\SFX\Music\MFYG\1_Harp_073D3C57.wem	492864942.wem	\Interactive Music Hierarchy\Music\Music_Regions\Woodlands_Day\Woodlands_Day_Layers\1_Harp	
+	804366245	1_Clarinet_Rhythmic	D:\work\TheKingOfTerrors\SoundWwiseProj\.cache\Windows\SFX\Music\MFYG\1_Clarinet_Rhythmic_073D3C57.wem	804366245.wem	\Interactive Music Hierarchy\Music\Music_Regions\Woodlands_Day\Woodlands_Day_Layers\1_Clarinet_Rhythmic	
+	846211921	1_Choir	D:\work\TheKingOfTerrors\SoundWwiseProj\.cache\Windows\SFX\Music\MFYG\1_Choir_AF04F4F7.wem	846211921.wem	\Interactive Music Hierarchy\Music\Music_Regions\Woodlands_Day\Woodlands_Day_Layers\1_Choir	
+	850164847	Tremolo Strings	D:\work\TheKingOfTerrors\SoundWwiseProj\.cache\Windows\SFX\Music\Tremolo Strings_AF04F4F7.wem	850164847.wem	\Interactive Music Hierarchy\Music\Music_Regions\Woodlands_Day\Woodlands_Day_Layers\Tremolo Strings	
+

@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1283144870	Attack00_Intro			\Default Work Unit\Attack00_Intro	
+	2918942022	Attack01_Seg			\Default Work Unit\Attack01_Seg	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	136073668	Attack01_Seg	D:\work\TheKingOfTerrors\SoundWwiseProj\.cache\Windows\SFX\Attack01_Seg 01a (A) [light groove]_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Attack01_Seg		1536064
+	857630051	Attack00_Intro	D:\work\TheKingOfTerrors\SoundWwiseProj\.cache\Windows\SFX\Attack00_Intro 01 [flute]_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Attack00_Intro		2687684
+
